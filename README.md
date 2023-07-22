@@ -20,8 +20,6 @@ Contributing to the Community
 
 With BitOps, the torch of knowledge continues to shine brightly. Developers and cryptography enthusiasts can now explore SHA-256 in C++, gaining insights into this essential cryptographic algorithm through a new lens. BitOps aims to serve as an educational tool, enabling users to understand the inner workings of SHA-256 and promoting awareness of secure coding practices.
 
-Disclaimer: This section acknowledges the original creator, in3rsha, and emphasizes the collaborative spirit of open source development. BitOps respects the original project's contributions and intends to provide an educational platform for understanding SHA-256.
-
 SHA-256 Basics:
 Before delving into the code, let's understand the basics of SHA-256. The algorithm takes a message as input and produces a fixed-size 256-bit (32-byte) hash value. This cryptographic hash function is designed to be collision-resistant, meaning it is highly improbable to find two different messages with the same hash. The secure nature of SHA-256 makes it widely used in various applications like digital signatures, blockchain, and password hashing.
 
@@ -499,4 +497,4 @@ Constants off, on, split, and delay control the animation parameters.
 The animation simulates bitwise XOR operations using binary numbers and shows the intermediate results with a delay between steps.
 Overall, the code provides functionality to process binary strings, perform bitwise XOR operations, and display the intermediate results. If there are insufficient command-line arguments, it runs an animation to demonstrate bitwise XOR operations.
 
-Disclaimer: The code and visualizations in BitOps are for educational purposes only and may not be optimized for production use. For secure cryptographic implementations, use vetted libraries and consult security experts.
+Disclaimer: The code and visualizations in BitOps are for educational purposes only and may not be optimized for production use. For secure cryptographic implementations, use vetted libraries and consult security This section acknowledges the original creator, in3rsha, and emphasizes the collaborative spirit of open source development. BitOps respects the original project's contributions and intends to provide an educational platform for understanding SHA-256.
